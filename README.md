@@ -1,0 +1,2 @@
+# spolio
+Pillage automatique.
